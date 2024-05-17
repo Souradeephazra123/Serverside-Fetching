@@ -4,11 +4,10 @@ import React from "react";
 const page = () => {
   return (
     <div>
-      <ShowMovieDetail  />
+      {/* <ShowMovieDetail  /> */}
+      This is movie Moviedetails page
     </div>
   );
 };
 
 export default page;
-
-
